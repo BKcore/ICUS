@@ -1,3 +1,5 @@
+See github wiki for more information.
+
 Copyright (c) 2010, The ICUS Project
 All rights reserved.
 
